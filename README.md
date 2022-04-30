@@ -1,2 +1,3 @@
 # HatePrediction
-ML models to predict Hate speech, Gender bias, Communal bias and aggression identification. Also an web application has been created to access the ml models.
+Aggressive and hate-filled messages are prevalent on the internet more than ever. These messages are being targeted against a person or an event online and making the internet a more hostile environment. Since this issue is widespread across many users and is not only limited to one language, there is a need for automated models with multilingual capabilities to detect such hostile messages on the online platform.
+Hate Speech classification has crucial applications in the social media domain. In this project I have implemented ML models to predict Hate speech, Gender bias, Communal bias and aggression identification. Also an web application has been created to access the ml models.
